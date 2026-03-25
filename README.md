@@ -9,7 +9,9 @@ This dashboard helps organizations make data-driven HR decisions by identifying 
 🚀 Features
 
 📌 Total Employees Overview
+
 📉 Attrition Count & Attrition Rate
+
 👨‍💼 Active Employees Tracking
 🎂 Average Age Analysis
 💰 Average Monthly Income by Job Role
@@ -64,5 +66,5 @@ Built as part of data analytics learning & portfolio project
 
 If you like this project or want to collaborate:
 
-📧 Email: your-email@example.com
-💼 LinkedIn: your-linkedin-profile
+📧 Email: piyalimaity2005@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/piyali-maity-38b456347/
